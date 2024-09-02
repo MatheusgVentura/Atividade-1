@@ -2,8 +2,20 @@
 
 ### Este projeto consiste em um programa Java que serve para calcular impostos e taxas aplicáveis em operações comerciais.
 
-
 O programa foi desenvolvido com base nos seguintes requisitos:
 
 
+- ISS (Imposto Sobre Serviços):
 
+Alíquota: 7,3%
+Aplicável apenas sobre serviços.
+
+- ICMS (Imposto sobre Circulação de Mercadorias e Serviços):
+
+Alíquota: 13,2%
+Aplicável sobre produtos e serviços.
+
+- IPI (Imposto sobre Produtos Industrializados):
+
+Alíquota: 21,9%
+Aplicável apenas sobre produtos.
