@@ -10,10 +10,12 @@ O programa foi desenvolvido com base nos seguintes requisitos:
 Alíquota: 7,3%
 Aplicável apenas sobre serviços.
 
+
 - ICMS (Imposto sobre Circulação de Mercadorias e Serviços):
 
 Alíquota: 13,2%
 Aplicável sobre produtos e serviços.
+
 
 - IPI (Imposto sobre Produtos Industrializados):
 
