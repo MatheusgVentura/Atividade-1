@@ -34,3 +34,7 @@ E as 3 classes para cada imposto :
 E aqui esta a classe para calcular os impostos :
 
 ![image](https://github.com/user-attachments/assets/463d9790-414b-462a-ae87-cba3adb53b29)
+
+Executando o código inteiro geramos :
+
+![image](https://github.com/user-attachments/assets/61d7b2ce-a49e-4ffc-a339-ac68fffe3d28)
