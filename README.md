@@ -22,3 +22,15 @@ Com isto criei 2 classes :
 ![image](https://github.com/user-attachments/assets/eec6739d-dd29-4d8b-a5c7-059b8ee81227)
 
 ![image](https://github.com/user-attachments/assets/65d1bf6d-6550-49e2-b331-bdbddf4214a6)
+
+E as 3 classes para cada imposto :
+
+![image](https://github.com/user-attachments/assets/8630b6e6-613b-42d0-9c75-d883f182ac18)
+
+![image](https://github.com/user-attachments/assets/77d5c1dc-aecc-4f4a-b362-6994d418cfff)
+
+![image](https://github.com/user-attachments/assets/054a5ca8-cad4-4f35-b9dd-517d5a74f209)
+
+E aqui esta a classe para calcular os impostos :
+
+![image](https://github.com/user-attachments/assets/463d9790-414b-462a-ae87-cba3adb53b29)
