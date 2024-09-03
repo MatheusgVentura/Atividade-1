@@ -1,4 +1,4 @@
-# Cálculo de impostos e taxas de operações comerciais (Aticvidade de Faculdade)
+# Cálculo de impostos e taxas de operações comerciais (Atividade de Faculdade)
 
 ### Este projeto consiste em um programa Java que serve para calcular impostos e taxas aplicáveis em operações comerciais.
 
