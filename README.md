@@ -10,3 +10,5 @@ O programa foi desenvolvido com base nos seguintes requisitos:
 - ICMS (Imposto sobre Circulação de Mercadorias e Serviços): Alíquota: 13,2%, aplicável sobre produtos e serviços.
   
 - IPI (Imposto sobre Produtos Industrializados): Alíquota: 21,9%, aplicável apenas sobre produtos.
+
+Como base peguei um Computador Gamer (Produto) e um Serviço de Consultoria para ajuda a montar o computador (Preços Fictício)
